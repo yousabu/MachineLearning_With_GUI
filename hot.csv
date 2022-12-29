@@ -1,0 +1,10 @@
+country;salary;age;label
+France;80000;60;Yes
+Spain;60000;50;No
+Turkey;;;Yes
+France;;30;No
+Spain;50000;;Yes
+Turkey;70000;20;Yes
+France;90000;;No
+Spain;;38;No
+Turkey;10000;45;Yes
